@@ -1,0 +1,20 @@
+00:00:01.112227 VirtualBox GUI VM Selector Window 7.0.6 r155176 win.amd64 (Jan 11 2023 16:38:38) release log
+00:00:01.112230 Log opened 2023-03-11T08:22:11.185351400Z
+00:00:01.112230 Build Type: release
+00:00:01.112237 OS Product: Windows 10
+00:00:01.112239 OS Release: 10.0.19044
+00:00:01.112239 OS Service Pack: 
+00:00:01.134775 DMI Product Name: HP ProBook 450 G3
+00:00:01.142421 DMI Product Version:  
+00:00:01.142478 Firmware type: UEFI
+00:00:01.143228 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:01.143285 Host RAM: 8088MB (7.8GB) total, 2433MB (2.3GB) available
+00:00:01.143291 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.143291 Process ID: 6612
+00:00:01.143292 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.143493 Qt version: 5.15.2
+00:00:01.145966 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:01.201186 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:04.097249 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:03.981772 GUI: UICommon: Handling aboutToQuit request..
+00:16:04.607879 GUI: UICommon: aboutToQuit request handled!
