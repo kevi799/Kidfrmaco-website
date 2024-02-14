@@ -1,0 +1,18 @@
+.nav{
+    background-color: magenta;
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+    text-decoration-line: underline;
+    text-wrap: nowrap;
+    color: white;
+}
+.bg-img{
+    background-image: url(images/istockphoto-803141126-1024x1024.jpg);
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
